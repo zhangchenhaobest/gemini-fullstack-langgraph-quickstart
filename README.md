@@ -1,3 +1,29 @@
+# gemini-fullstack-langgraph-quickstart
+
+[English](#english) | [简体中文](#简体中文)
+
+---
+
+## English
+
+Get started with building Fullstack Agents using Gemini 2.5 and LangGraph
+
+> This repository is a fork. For full documentation, see the upstream repository.
+
+[简体中文](#简体中文)
+
+---
+
+## 简体中文
+
+用 Gemini 2.5 与 LangGraph 构建全栈 Agent 的快速入门。
+
+> 本项目为 fork，详细文档请以原仓库为准。
+
+[English](#english)
+
+---
+
 # Gemini Fullstack LangGraph Quickstart
 
 This project demonstrates a fullstack application using a React frontend and a LangGraph-powered backend agent. The agent is designed to perform comprehensive research on a user's query by dynamically generating search terms, querying the web using Google Search, reflecting on the results to identify knowledge gaps, and iteratively refining its search until it can provide a well-supported answer with citations. This application serves as an example of building research-augmented conversational AI using LangGraph and Google's Gemini models.
